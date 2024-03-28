@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Los Angeles - Page 2</title>
+  <link href="feuilledestyle.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1>Les quartiers de Los Angeles</h1>
+  <p>Los Angeles est divisée en plusieurs quartiers, chacun avec sa propre ambiance et ses propres attractions. Voici quelques-uns des quartiers les plus populaires :</p>
+  <ul>
+    <li>Hollywood</li>
+    <li>Beverly Hills</li>
+    <li>Santa Monica</li>
+    <li>Venice Beach</li>
+    <li>Downtown Los Angeles</li>
+  </ul>
+  <a href="index.html">Retour à l'accueil</a>
+  <a href="page3.html">Activités</a>
+  <a href="page4.html">Infos pratiques</a>
+</body>
+</html>
