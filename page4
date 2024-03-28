@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Los Angeles - Page 4</title>
+  <link href="feuilledestyle.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1>Los Angeles - Informations pratiques</h1>
+  <p>Voici quelques informations pratiques pour préparer votre voyage à Los Angeles :</p>
+  <ul>
+    <li><strong>Langue :</strong> Anglais</li>
+    <li><strong>Monnaie :</strong> Dollar américain</li>
+    <li><strong>Visa :</strong> Un visa est nécessaire pour les ressortissants de certains pays. Veuillez consulter le site Web de l'ambassade des États-Unis pour plus d'informations.</li>
+    <li><strong>Climat :</strong> Los Angeles bénéficie d'un climat méditerranéen, avec des étés chauds et secs et des hivers doux et humides.</li>
+    <li><strong>Transport :</strong> Los Angeles est une ville très étendue. Il est recommandé de louer une voiture pour se déplacer. Les transports en commun sont également disponibles, mais ils peuvent être lents et peu pratiques.</li>
+  </ul>
+</body>
+</html>
