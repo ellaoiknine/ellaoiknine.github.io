@@ -34,7 +34,7 @@ li {
 }
 
 a {
-  color: #000;
+  color: #000000;
   text-decoration: none;
 }
 
@@ -51,7 +51,7 @@ a:hover {
   
 .topnav a {
     float: left;
-    color: #f2f2f2;
+    color: rgb(0, 0, 0);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
