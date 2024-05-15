@@ -23,6 +23,7 @@ h2 {
 
 p {
     margin-bottom: 10px;
+    padding: 0 20px; /* Ajout du padding gauche et droite */
 }
 
 ul {
@@ -41,11 +42,11 @@ a {
 }
 
 a:hover {
-    color: #f00;
+    color: pink; /* Changement en rose au survol */
 }
 
 header {
-    background-color: #333;
+    background-color: #000;  /* Changement en noir */
     color: white;
     padding: 10px 0;
 }
@@ -67,17 +68,23 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: white;  /* Changement du texte en blanc */
     padding: 14px 20px;
     text-decoration: none;
     display: block;
 }
 
 nav ul li a:hover {
-    background-color: #111;
+    color: pink;  /* Changement en rose au survol */
 }
 
 main {
+    padding: 20px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
     padding: 20px;
 }
 
@@ -86,32 +93,15 @@ main {
     margin-bottom: 20px;
 }
 
-.carousel-container {
-    width: 100%;
-    max-width: 600px;
-    margin: 0 auto;
-    overflow: hidden;
-    position: relative;
-}
-
-.carousel-slide {
-    display: flex;
-}
-
-.carousel-slide img {
-    width: 100%;
-    border: 2px solid #ddd;
-}
-
-.map {
+.image {
     text-align: center;
-    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
-#map {
-    height: 400px;
+.image img {
     width: 100%;
-    background-color: grey;
+    max-width: 800px;
+    height: auto;
 }
 
 footer {
