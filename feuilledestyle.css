@@ -86,22 +86,41 @@ main {
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
+    text-align: center; /* Centre le contenu */
 }
 
 .intro {
-    text-align: center;
     margin-bottom: 20px;
 }
 
 .image {
-    text-align: center;
     margin-bottom: 20px;
 }
 
 .image img {
-    width: 100%;
-    max-width: 800px;
+    width: 70%; /* Ajuste la largeur de l'image */
     height: auto;
+    display: block;
+    margin: 0 auto; /* Centre l'image */
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+.buttons button {
+    background-color: #000; /* Boutons noirs */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.buttons button:hover {
+    background-color: pink; /* Changement en rose au survol */
+    color: black;
 }
 
 footer {
